@@ -1,0 +1,16 @@
+********** INSTALACIONES **********
+1. npm install react-router-dom
+2. npm i query-string -> Paquete para trabajar facilmente con los QueryString
+
+********** DOCUMENTACION **********
+1. https://reactrouter.com/web/api/Switch/location-object
+2. https://es.reactjs.org/docs/getting-started.html
+2. Filter -> https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
+3. Map -> https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map
+4. Spread -> https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
+
+********** ANIMACIONES **********
+https://animate.style/
+
+********** GITHUB REPO **********
+https://github.com/Klerith/react-hero-app
